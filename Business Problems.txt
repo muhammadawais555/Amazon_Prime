@@ -1,0 +1,28 @@
+Beginner Level
+
+What is the total number of movies and TV shows available on Amazon Prime?
+How many shows were added to Amazon Prime each year?
+What is the distribution of content by rating (e.g., G, PG, PG-13, R)?
+Which country has produced the most content available on Amazon Prime?
+What are the top 10 most common genres listed on Amazon Prime?
+
+
+
+Intermediate Level
+
+Which director has the most titles on Amazon Prime?
+What is the average duration of movies and TV shows on Amazon Prime?
+How has the number of new releases added to Amazon Prime changed over the years?
+What is the most common release year for content on Amazon Prime?
+Which actors or actresses appear most frequently in the dataset?
+
+
+
+
+Advanced Level
+
+Is there a correlation between the release year and the duration of movies or TV shows?
+How does the distribution of ratings differ between movies and TV shows?
+Which genres have seen the most significant growth in the number of titles over the years?
+Can we identify any trends in the types of content added (e.g., more documentaries, fewer comedies) over time?
+Are there any patterns in the countries producing content in specific genres? For example, are dramas predominantly produced in a particular country?
