@@ -1,0 +1,25 @@
+**Amazon Prime Content Analysis**
+This repository contains a comprehensive Power BI project analyzing Amazon Prime's movie and TV show content. The project addresses various business problems, categorized into Beginner, Intermediate, and Advanced levels.
+
+**Business Problems Solved:**
+
+**Beginner Level**
+Total Content Count: Determine the total number of movies and TV shows available on Amazon Prime.
+Yearly Additions: Identify the number of shows added to Amazon Prime each year.
+Content Distribution by Rating: Analyze the distribution of content by ratings such as G, PG, PG-13, and R.
+Country-wise Content Production: Find out which country has produced the most content available on Amazon Prime.
+Top 10 Genres: List the top 10 most common genres available on Amazon Prime.
+
+**Intermediate Level**
+Prolific Directors: Identify the director with the most titles on Amazon Prime.
+Average Duration: Calculate the average duration of movies and TV shows on Amazon Prime.
+New Releases Trend: Analyze how the number of new releases added to Amazon Prime has changed over the years.
+Common Release Years: Determine the most common release year for content on Amazon Prime.
+Frequent Actors/Actresses: Identify the actors or actresses who appear most frequently in the dataset.
+
+**Advanced Level**
+Release Year vs. Duration Correlation: Explore if there's a correlation between the release year and the duration of movies or TV shows.
+Ratings Distribution: Compare the distribution of ratings between movies and TV shows.
+Genre Growth: Identify which genres have seen the most significant growth in the number of titles over the years.
+Content Type Trends: Detect trends in the types of content added over time (e.g., more documentaries, fewer comedies).
+Country and Genre Patterns: Analyze patterns in the countries producing content in specific genres, such as whether dramas are predominantly produced in a particular country.
